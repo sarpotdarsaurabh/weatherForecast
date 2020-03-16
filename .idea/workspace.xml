@@ -10,31 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a7a5417-5db9-4824-9cc8-22821fa444fe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1-milestone-1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1-milestone-1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1-milestone-1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1-milestone-1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1-milestone-1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1-milestone-1/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1-milestone-1/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1-milestone-1/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1-milestone-1/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1-milestone-1/javaCompile/taskJars.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1-milestone-1/taskHistory/fileSnapshots.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1-milestone-1/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1-milestone-1/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/generated/mockable-android-26.v3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin-build/caches/version.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/iamsalih/openweatherapplication/ui/view/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/iamsalih/openweatherapplication/ui/view/MainActivity.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -65,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iamsalih/openweatherapplication/ui/view/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="13">
+              <caret line="85" column="61" selection-start-line="85" selection-start-column="61" selection-end-line="85" selection-end-column="61" />
               <folding>
                 <element signature="e#53#857#0" expanded="true" />
               </folding>
@@ -87,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iamsalih/openweatherapplication/dagger/module/OpenWeatherAPIModule.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -150,6 +127,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -159,6 +141,7 @@
         <option value="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/iamsalih/openweatherapplication/BuildConfig.java" />
         <option value="$PROJECT_DIR$/gradle.properties" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iamsalih/openweatherapplication/ui/view/MainActivity.kt" />
       </list>
     </option>
   </component>
@@ -380,8 +363,8 @@
       <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039524" side_tool="true" weight="0.32903227" />
       <window_info anchor="bottom" id="Logcat" order="10" sideWeight="0.49960473" weight="0.68064517" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.84565914" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32903227" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.8451613" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32847896" />
       <window_info anchor="bottom" id="Build" order="14" weight="0.32580644" />
       <window_info anchor="bottom" id="SonarLint" order="15" />
@@ -550,13 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iamsalih/openweatherapplication/dagger/module/OpenWeatherAPIModule.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iamsalih/openweatherapplication/dagger/module/GSONModule.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -564,10 +540,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iamsalih/openweatherapplication/dagger/module/OpenWeatherAPIModule.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iamsalih/openweatherapplication/ui/view/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="13">
+          <caret line="85" column="61" selection-start-line="85" selection-start-column="61" selection-end-line="85" selection-end-column="61" />
           <folding>
             <element signature="e#53#857#0" expanded="true" />
           </folding>

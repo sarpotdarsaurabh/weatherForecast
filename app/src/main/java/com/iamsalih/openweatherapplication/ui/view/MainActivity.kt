@@ -83,6 +83,7 @@ class MainActivity : AppCompatActivity(), MainView {
 
     fun Activity.toast(toastMessage: String, duration: Int = Toast.LENGTH_SHORT) {
         Toast.makeText(this, toastMessage, duration).show()
+        Toast.makeText(this,toastMessage+" ",duration).show()
     }
 
     override fun showSpinner() {
