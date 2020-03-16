@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/a9bab296db1eed6a0a3d0e4c3f86d618/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/f5bb630adbdeaf69aff76582dd4dc380/recyclerview-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/2a34fe93a705dccbb14257d3007fbfb0/cardview-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/5cc7d916fbcf441526525614a3dd8dba/glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/1f31106754f392bdb2b088e81a93d955/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/d1230485447d240fff1a43219de9e106/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/32d6fbbac5e93d6e6a7b396720431215/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/0fa9776f0f751ada2610eb25f2b27b4f/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/0ae8fd13141969ff1b82f4dd37bb1eec/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/c0542797e0c40a456c075a7287b46bc7/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/ba97bf90be8cd70d19f5c8ca70d90fab/gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/f81a4adcc361bd1dfa1672c07afe92c2/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/6e0bbfc76a03a29477de29b4c39d8952/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/869887cd2937b861f31c187992d9814c/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/2cd4b01ca8a9c5d93ca2a4fe8dbfa573/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:6:5-21:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/5cc7d916fbcf441526525614a3dd8dba/glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/5cc7d916fbcf441526525614a3dd8dba/glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/ba97bf90be8cd70d19f5c8ca70d90fab/gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/ba97bf90be8cd70d19f5c8ca70d90fab/gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.iamsalih.openweatherapplication.ui.view.MainActivity
+ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:13:19-90
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.iamsalih.openweatherapplication.ui.view.DetailActivity
+ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:20:9-59
+	android:name
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml:20:19-57
+uses-sdk
+INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/a9bab296db1eed6a0a3d0e4c3f86d618/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/a9bab296db1eed6a0a3d0e4c3f86d618/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/f5bb630adbdeaf69aff76582dd4dc380/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/f5bb630adbdeaf69aff76582dd4dc380/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/2a34fe93a705dccbb14257d3007fbfb0/cardview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/2a34fe93a705dccbb14257d3007fbfb0/cardview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/5cc7d916fbcf441526525614a3dd8dba/glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/5cc7d916fbcf441526525614a3dd8dba/glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/1f31106754f392bdb2b088e81a93d955/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/1f31106754f392bdb2b088e81a93d955/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/d1230485447d240fff1a43219de9e106/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/d1230485447d240fff1a43219de9e106/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/32d6fbbac5e93d6e6a7b396720431215/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/32d6fbbac5e93d6e6a7b396720431215/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/0fa9776f0f751ada2610eb25f2b27b4f/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/0fa9776f0f751ada2610eb25f2b27b4f/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/0ae8fd13141969ff1b82f4dd37bb1eec/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/0ae8fd13141969ff1b82f4dd37bb1eec/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/c0542797e0c40a456c075a7287b46bc7/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/c0542797e0c40a456c075a7287b46bc7/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/ba97bf90be8cd70d19f5c8ca70d90fab/gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/ba97bf90be8cd70d19f5c8ca70d90fab/gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/f81a4adcc361bd1dfa1672c07afe92c2/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/f81a4adcc361bd1dfa1672c07afe92c2/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/6e0bbfc76a03a29477de29b4c39d8952/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/6e0bbfc76a03a29477de29b4c39d8952/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/869887cd2937b861f31c187992d9814c/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/869887cd2937b861f31c187992d9814c/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/2cd4b01ca8a9c5d93ca2a4fe8dbfa573/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/saurabhs/.gradle/caches/transforms-2/files-2.1/2cd4b01ca8a9c5d93ca2a4fe8dbfa573/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+		ADDED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saurabhs/Desktop/kotlin_open_weather_app/app/src/main/AndroidManifest.xml
